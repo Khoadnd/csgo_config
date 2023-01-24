@@ -1,0 +1,1 @@
++exec CustomConfig -novid -no joy -refresh 75 -noaafonts -nod3d9ex -high
